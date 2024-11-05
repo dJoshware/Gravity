@@ -1,0 +1,14 @@
+@import url("https://use.typekit.net/nbg5qht.css");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "cubano", sans-serif;
+    background-color: black;
+    color: #f5f5f7;
+}
+canvas {
+    border: 1px solid white;
+}
