@@ -13,4 +13,4 @@ Here's what the gravity looks like from 'gravity.js':
 ---
 
 ## License
-📝 [MIT License](https://github.com/juicername6424/Gravity/blob/main/LICENSE)
+📝 [MIT License](https://github.com/djoshware/Gravity/blob/main/LICENSE)
